@@ -194,6 +194,24 @@ CloudWatch
 
 ---
 
+## GitHub Contribution Snake
+
+This is generated automatically by the workflow in [snake.yml](.github/workflows/snake.yml) and published to the `output` branch.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aryan-thawkar/aryan-thawkar/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</div>
+
+---
+
+## Profile Highlights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-thawkar&layout=compact&theme=github_dark&hide_border=true&title_color=FF9900&text_color=E5E7EB&bg_color=0F172A" alt="Top languages" />
+</div>
+
+---
+
 ## Contribution Activity
 
 <div align="center">
@@ -208,7 +226,7 @@ CloudWatch
 
 <strong>Console Version:</strong> `v2026.08`
 
-<strong>Last Updated:</strong> <!--LAST_UPDATED--> 2026-08-13 19:14 UTC
+<strong>Last Updated:</strong> <!--LAST_UPDATED-->
 
 <i>"Build. Deploy. Scale."</i>
 
