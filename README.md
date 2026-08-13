@@ -1,33 +1,37 @@
-<!-- AWS Console Inspired GitHub Profile -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0B1220,100:111827&text=aws%20console&fontColor=FF9900&fontSize=28"/>
-</p>
+<img src="./assets/dashboard.svg" width="100%" alt="AWS Management Console Dashboard"/>
 
-<table width="100%">
+# ☁️ Aryan Thawkar
+
+**Cloud & DevOps Practitioner • AWS Student Builder Group Leader • AWS User Group Nagpur**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-thawkar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel)](https://aryanthawkar.tech)
+[![AWS SBG](https://img.shields.io/badge/AWS_SBG-SVPCET-FF9900?style=for-the-badge&logo=amazonaws)](https://www.meetup.com/aws-sbg-at-st-vincent-pallotti-college-of-engineering-tech/)
+
+</div>
+
+---
+
+# 🖥️ Console Home
+
+> **Region:** `ap-south-1 (Mumbai)` • **Status:** 🟢 Running
+
+<table>
 <tr>
-<td colspan="2">
-
-| AWS | Services ▼ | 🔍 Search services, features, blogs... | 🌎 N. Virginia | 👤 Aryan |
-|------|------------|-----------------------------------------|---------------|---------|
-
-</td>
-</tr>
-
-<tr>
-<td width="22%" valign="top">
+<td width="24%" valign="top">
 
 ## Navigation
 
-🟠 **Dashboard**
-
-- Overview
-- Projects
-- Skills
-- Certifications
-- Experience
-- Community
-- Contact
+- 🏠 Overview
+- ☁️ Projects
+- 🚀 AWS Services
+- 📊 CloudWatch
+- 🛠️ Skills
+- 📜 Certifications
+- 👥 Community
+- 📬 Connect
 
 ---
 
@@ -36,14 +40,17 @@
 - EC2
 - S3
 - IAM
-- CloudWatch
+- VPC
 - Lambda
 - RDS
+- CloudWatch
 - ECR
 
----
+</td>
 
-### CloudShell
+<td valign="top">
+
+## CloudShell
 
 ```bash
 $ whoami
@@ -52,121 +59,161 @@ Aryan Thawkar
 $ role
 Cloud & DevOps Practitioner
 
+$ community
+AWS Student Builder Group Leader @ SVPCET
+Tech Team @ AWS User Group Nagpur
+
+$ current_focus
+AWS • Docker • GitHub Actions • Linux • Terraform
+
 $ status
-Building on AWS...
+Building cloud-first projects...
 ```
-
-</td>
-
-<td valign="top">
-
-# Hi, I'm Aryan Thawkar
-
-Cloud & DevOps Practitioner
-
-AWS Student Builder Group Leader
-
-Tech Team • AWS User Group Nagpur
-
----
-
-## Architecture
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws"/>
-</p>
-
-`User`
-
-↓
-
-`Route53`
-
-↓
-
-`CloudFront`
-
-↓
-
-`S3`
-
-↓
-
-`ALB`
-
-↓
-
-`EC2`
-
-↓
-
-`RDS`
-
----
-
-## Console Metrics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
-</p>
-
----
-
-## AWS Services I Work With
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,githubactions,terraform,nginx,nodejs,react,mysql,mongodb,python"/>
-</p>
-
----
-
-## Featured Projects
-
-| Project | Stack |
-|---------|-------|
-| CI/CD Deployment System | AWS • Docker • GitHub Actions |
-| Multi-Tier AWS Architecture | VPC • ALB • EC2 • RDS |
-| Serverless URL Shortener | Lambda • API Gateway |
-| Faculty Information System | React • Node • MySQL |
-
----
-
-## DevOps Pipeline
-
-`GitHub`
-
-↓
-
-`GitHub Actions`
-
-↓
-
-`Docker`
-
-↓
-
-`AWS EC2`
-
-↓
-
-`CloudWatch`
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange&style=flat-square"/>
-</p>
+---
 
-<p align="center">
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+# ☁️ Infrastructure Overview
+
+<div align="center">
+
+`User`
+
+⬇️
+
+`Route 53`
+
+⬇️
+
+`CloudFront`
+
+⬇️
+
+`Application Load Balancer`
+
+⬇️
+
+`EC2`
+
+⬇️
+
+`RDS`
+
+</div>
+
+---
+
+# 📊 CloudWatch Metrics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryan-thawkar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-thawkar&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-thawkar&theme=github-dark"/>
+
+</div>
+
+---
+
+# 🚀 AWS Services & Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,githubactions,terraform,nginx,nodejs,react,mysql,mongodb,python&perline=5"/>
+
+</div>
+
+---
+
+# 📦 Active Deployments
+
+| Service | Status |
+|---------|--------|
+| CI/CD Deployment System | 🟢 Running |
+| Multi-Tier AWS Architecture | 🟢 Running |
+| Serverless URL Shortener | 🟡 In Progress |
+| Faculty Information System | 🟢 Running |
+
+---
+
+# ⚡ Deployment Pipeline
+
+<div align="center">
+
+`GitHub`
+
+⬇️
+
+`GitHub Actions`
+
+⬇️
+
+`Docker`
+
+⬇️
+
+`AWS EC2`
+
+⬇️
+
+`CloudWatch`
+
+</div>
+
+---
+
+# 👥 Community
+
+- ☁️ AWS Student Builder Group Leader — **SVPCET**
+- 🤝 Tech Team Member — **AWS User Group Nagpur**
+- 🎤 Organizing hands-on cloud workshops and AWS community events
+- 🚀 Helping students learn AWS through real-world projects
+
+---
+
+# 📈 Currently Learning
+
+- AWS Solutions Architect Associate
+- Terraform
+- Kubernetes
+- DevOps Automation
+- Cloud Architecture
+
+---
+
+# 📬 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aryan-thawkar/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://aryanthawkar.tech">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+<a href="https://github.com/aryan-thawkar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aryan-thawkar&color=orange&style=flat-square"/>
+
+*"Build. Deploy. Scale."*
+
+</div>
