@@ -1,0 +1,10 @@
+{
+  "name": "aryan-thawkar-profile",
+  "private": true,
+  "scripts": {
+    "dashboard": "node scripts/generate-dashboard.js",
+    "terminal": "node scripts/generate-terminal.js",
+    "timestamp": "node scripts/update-timestamp.js",
+    "build": "npm run dashboard && npm run terminal && npm run timestamp"
+  }
+}

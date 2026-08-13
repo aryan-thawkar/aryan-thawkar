@@ -2,40 +2,38 @@
 
 <img src="./assets/dashboard.svg" width="100%" alt="AWS Management Console Dashboard"/>
 
-# ☁️ Aryan Thawkar
-
-**Cloud & DevOps Practitioner • AWS Student Builder Group Leader • AWS User Group Nagpur**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-thawkar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel)](https://aryanthawkar.tech)
-[![AWS SBG](https://img.shields.io/badge/AWS_SBG-SVPCET-FF9900?style=for-the-badge&logo=amazonaws)](https://www.meetup.com/aws-sbg-at-st-vincent-pallotti-college-of-engineering-tech/)
-
 </div>
 
 ---
 
-# 🖥️ Console Home
+<table width="100%">
+<tr>
+<td colspan="2">
 
-> **Region:** `ap-south-1 (Mumbai)` • **Status:** 🟢 Running
+| **AWS Console** | **Services** | **🔍 Search services, features...** | **Region:** `ap-south-1 (Mumbai)` | **🟢 Running** |
+|-----------------|-------------|--------------------------------------|-----------------------------------|----------------|
 
-<table>
+</td>
+</tr>
+
 <tr>
 <td width="24%" valign="top">
 
 ## Navigation
 
-- 🏠 Overview
-- ☁️ Projects
-- 🚀 AWS Services
-- 📊 CloudWatch
-- 🛠️ Skills
-- 📜 Certifications
-- 👥 Community
-- 📬 Connect
+> Dashboard
+
+- Overview
+- Projects
+- CloudShell
+- CloudWatch
+- Deployments
+- Community
+- Contact
 
 ---
 
-### AWS Resources
+## AWS Resources
 
 - EC2
 - S3
@@ -43,70 +41,59 @@
 - VPC
 - Lambda
 - RDS
-- CloudWatch
 - ECR
+- CloudWatch
+
+---
+
+## Account
+
+**Aryan Thawkar**
+
+Cloud & DevOps Practitioner
 
 </td>
 
 <td valign="top">
 
+# ☁️ Console Home
+
+Welcome to my cloud workspace.
+
+I'm a **Cloud & DevOps Practitioner** passionate about building scalable infrastructure, automating deployments, and growing cloud communities.
+
+**Current Roles**
+
+- AWS Student Builder Group Leader — **SVPCET**
+- Tech Team Member — **AWS User Group Nagpur**
+
+---
+
 ## CloudShell
 
-```bash
-$ whoami
-Aryan Thawkar
+<img src="./assets/terminal.svg" width="100%" alt="CloudShell"/>
 
-$ role
-Cloud & DevOps Practitioner
+---
 
-$ community
-AWS Student Builder Group Leader @ SVPCET
-Tech Team @ AWS User Group Nagpur
+## Infrastructure Overview
 
-$ current_focus
-AWS • Docker • GitHub Actions • Linux • Terraform
-
-$ status
-Building cloud-first projects...
-```
-
-</td>
+<table>
+<tr>
+<td align="center">🌐<br>Route53</td>
+<td align="center">→</td>
+<td align="center">⚡<br>CloudFront</td>
+<td align="center">→</td>
+<td align="center">⚖️<br>ALB</td>
+<td align="center">→</td>
+<td align="center">🖥️<br>EC2</td>
+<td align="center">→</td>
+<td align="center">🗄️<br>RDS</td>
 </tr>
 </table>
 
 ---
 
-# ☁️ Infrastructure Overview
-
-<div align="center">
-
-`User`
-
-⬇️
-
-`Route 53`
-
-⬇️
-
-`CloudFront`
-
-⬇️
-
-`Application Load Balancer`
-
-⬇️
-
-`EC2`
-
-⬇️
-
-`RDS`
-
-</div>
-
----
-
-# 📊 CloudWatch Metrics
+## CloudWatch Metrics
 
 <div align="center">
 
@@ -124,7 +111,7 @@ Building cloud-first projects...
 
 ---
 
-# 🚀 AWS Services & Tech Stack
+## Active AWS Services
 
 <div align="center">
 
@@ -134,77 +121,81 @@ Building cloud-first projects...
 
 ---
 
-# 📦 Active Deployments
+## Deployment Dashboard
 
 | Service | Status |
 |---------|--------|
 | CI/CD Deployment System | 🟢 Running |
 | Multi-Tier AWS Architecture | 🟢 Running |
-| Serverless URL Shortener | 🟡 In Progress |
 | Faculty Information System | 🟢 Running |
+| Serverless URL Shortener | 🟡 Building |
 
 ---
 
-# ⚡ Deployment Pipeline
+## Deployment Pipeline
+
+```text
+Code
+ │
+ ▼
+GitHub
+ │
+ ▼
+GitHub Actions
+ │
+ ▼
+Docker
+ │
+ ▼
+AWS EC2
+ │
+ ▼
+CloudWatch
+```
+
+---
+
+## Community
+
+- ☁️ AWS Student Builder Group Leader
+- 🤝 AWS User Group Nagpur Tech Team
+- 🎤 Cloud Workshop Organizer
+- 🚀 Building real-world AWS & DevOps projects
+
+---
+
+## Current Learning Path
+
+| Service | Progress |
+|---------|----------|
+| AWS Solutions Architect Associate | ████████░░ |
+| Terraform | ██████░░░░ |
+| Kubernetes | █████░░░░░ |
+| DevOps Automation | ███████░░░ |
+
+---
+
+## Connect
 
 <div align="center">
 
-`GitHub`
-
-⬇️
-
-`GitHub Actions`
-
-⬇️
-
-`Docker`
-
-⬇️
-
-`AWS EC2`
-
-⬇️
-
-`CloudWatch`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-thawkar/)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/aryan-thawkar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel)](https://aryanthawkar.tech)
 
 </div>
 
----
-
-# 👥 Community
-
-- ☁️ AWS Student Builder Group Leader — **SVPCET**
-- 🤝 Tech Team Member — **AWS User Group Nagpur**
-- 🎤 Organizing hands-on cloud workshops and AWS community events
-- 🚀 Helping students learn AWS through real-world projects
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Currently Learning
-
-- AWS Solutions Architect Associate
-- Terraform
-- Kubernetes
-- DevOps Automation
-- Cloud Architecture
-
----
-
-# 📬 Connect
+## Contribution Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aryan-thawkar/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://aryanthawkar.tech">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
-<a href="https://github.com/aryan-thawkar">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://raw.githubusercontent.com/aryan-thawkar/aryan-thawkar/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -213,6 +204,10 @@ Building cloud-first projects...
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=aryan-thawkar&color=orange&style=flat-square"/>
+
+**Console Version:** `v2026.08`
+
+**Last Updated:** <!--LAST_UPDATED-->
 
 *"Build. Deploy. Scale."*
 

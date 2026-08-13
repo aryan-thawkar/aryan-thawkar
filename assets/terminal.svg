@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 220">
+  <rect width="700" height="220" rx="14" fill="#111827"/>
+
+  <circle cx="24" cy="22" r="6" fill="#FF605C"/>
+  <circle cx="44" cy="22" r="6" fill="#FFBD44"/>
+  <circle cx="64" cy="22" r="6" fill="#00CA4E"/>
+
+  <text x="22" y="55" fill="#10B981" font-size="20" font-family="monospace">$ whoami</text>
+  <text x="22" y="82" fill="#E5E7EB" font-size="18" font-family="monospace">Aryan Thawkar</text>
+
+  <text x="22" y="118" fill="#10B981" font-size="20" font-family="monospace">$ role</text>
+  <text x="22" y="145" fill="#E5E7EB" font-size="18" font-family="monospace">Cloud & DevOps Practitioner</text>
+
+  <text x="22" y="180" fill="#10B981" font-size="20" font-family="monospace">$ current_focus</text>
+
+  <text x="22" y="205" fill="#FF9900" font-size="18" font-family="monospace">
+    AWS • Docker • GitHub Actions • Terraform
+  </text>
+</svg>
