@@ -226,7 +226,7 @@ This is generated automatically by the workflow in [snake.yml](.github/workflows
 
 <strong>Console Version:</strong> `v2026.08`
 
-<strong>Last Updated:</strong> <!--LAST_UPDATED--> 2026-08-30 10:58 UTC
+<strong>Last Updated:</strong> <!--LAST_UPDATED--> 2026-08-31 12:18 UTC
 
 <i>"Build. Deploy. Scale."</i>
 
